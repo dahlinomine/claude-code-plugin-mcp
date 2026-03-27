@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-plugin-mcp",
+  "version": "0.1.0",
+  "description": "TypeScript plugin to extend Claude Code with custom MCP servers for local file manipulation.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
